@@ -1,0 +1,135 @@
+
+.foto{
+    width: 80%;
+   height: 240px;
+}
+
+.paddingInfo{
+    padding: 0 35px 0;
+}
+.iconoCesde{
+    width: 40%;
+    height: 35px;
+}
+.iconoEstudio{
+    width: 70%;
+    height: 65px;
+}
+.titulo1{
+    font-family:'Pacifico', cursive;
+}
+.minititulo{
+    font-family: 'Allison', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.titulo2{
+    font-family: 'Allison', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Satisfy', cursive;
+    
+}
+.fondo1{
+    background-color:#e8dad7;
+}
+.fondo2{
+    background-color: rgb(243, 236, 236);
+
+}
+.tamañoinfo{
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
+
+}
+.borderinfo{
+    border-top: solid 1px #000;
+    margin:0 15px 0 15px;
+}
+.borderperfil{
+    border-bottom: solid 1px #000;
+    padding: 70px 0 0 ;
+}
+.borderExperi{
+    border-bottom: solid 1px #000;
+    padding: 30px 0 0 ;
+    
+}
+.paddingdEx{
+    padding: 40px 0 0;
+}
+.paddingdDiv{
+    padding:0;
+}
+.padingP{
+    padding: 0 15px 0;
+}
+.bordericono{
+    border-left:dotted 1px #000;
+}
+.padingRefe{
+    padding: 0 40px 0;
+    font-family: 'Raleway', sans-serif;
+}
+.texto{
+    font-family: 'Raleway', sans-serif;
+}
+.lista,li{
+    font-family: 'Raleway', sans-serif;
+}
+.tamañoimg{
+    width:70%;
+}
+#container {
+    height: 600px;
+ }
+  
+.highcharts-figure, .highcharts-data-table table {
+    min-width: 320px; 
+    max-width: 800px;
+    margin: 1em auto;
+    }
+
+.highcharts-data-table table {
+    font-family: Verdana, sans-serif;
+    border-collapse: collapse;
+    border: 1px solid #EBEBEB;
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+}
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: #555;
+}
+.highcharts-data-table th {
+    font-weight: 600;
+    padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+    padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+    background: #f8f8f8;
+}
+.highcharts-data-table tr:hover {
+    background: #f1f7ff;
+}
+
+.ld-label {
+    width:200px;
+    display: inline-block;
+}
+
+.ld-url-input {
+    width: 500px; 
+}
+
+.ld-time-input {
+    width: 40px;
+}
